@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Aimecol/assets/blob/main/profile.jpg?raw=true" alt="Aime Claudien Mazimpaka" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aime Claudien Mazimpaka</h1>
 <h3 align="center">A passionate Software Engineer | Full-Stack Developer | DevOps Enthusiast | AI Explorer</h3>
 
