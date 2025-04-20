@@ -6,7 +6,7 @@
 <h3 align="center">🎓 Software Engineer | 🎶 Musician | 💻 Full-Stack Developer | ☁️ DevOps Explorer | 🧠 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Creating+impactful+apps+and+beautiful+music...;Engineering+solutions+by+day,+composing+melodies+by+night.;Blending+code+and+creativity,+one+project+at+a+time.&center=true&width=900&height=40&color=F97316&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+impactful+code...;Building+AI-powered,+secure,+and+scalable+apps.;Always+learning,+always+creating.&center=true&width=500&height=40&color=F97316&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 ---
