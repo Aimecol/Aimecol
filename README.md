@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Aime.png" alt="Aime Claudien Mazimpaka" width="150" style="border-radius: 50px;" />
+  <img src="Aime.png" alt="Aime Claudien Mazimpaka" width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aime Claudien Mazimpaka</h1>
