@@ -27,8 +27,8 @@
 Outside of tech, I'm a dedicated **pop musician and singer**, channeling personal experiences into lyrics and melodies. I write, record, and produce tracks that blend emotion with modern soundscapes.
 
 🔗 **Listen to My Work**:
-- 🎵 [**Umva** (Official Audio)](https://youtu.be/6sSGdpxk1xg)
-- 🎵 [**Ni Wowe** (Official Audio)](https://youtu.be/IrtcFgBha94)
+- 🎵 [**Ruraryana** (Official Audio)](https://youtu.be/6sSGdpxk1xg)
+- 🎵 [**No** (Official Audio)](https://youtu.be/IrtcFgBha94)
 - 📺 [**Full Music Channel** – YouTube/@Aimecol](https://www.youtube.com/@Aimecol)
 
 > _“Music expresses what words can’t... and tech builds what the world needs.”_
