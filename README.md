@@ -47,13 +47,13 @@
 
 ### 🌐 Portfolio & Contact
 
-- 🔗 Portfolio: [[aimeclaudien.dev](https://your-portfolio.com)](https://aimecol.github.io/portfolio/)
+- 🔗 Portfolio: ([aimeclaudien.dev](https://aimecol.github.io/portfolio/))
 - 💼 LinkedIn: ([https://linkedin.com/in/aime-claudien-mazimpaka](https://www.linkedin.com/in/aime-claudien-mazimpaka-61801b356))
 - 📧 Email: [aimecol314@gmail.com](mailto:aimecol314@gmail.com)
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:aimeclaudien.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aime-claudien-mazimpaka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:aimecol314@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AimeClaudienMazimpaka&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Aimecol&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
