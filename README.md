@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aime Claudien Mazimpaka</h1>
+<h3 align="center">A passionate Software Engineer | Full-Stack Developer | DevOps Enthusiast | AI Explorer</h3>
 
-<!--
-**Aimecol/Aimecol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+impactful+code...;Building+AI-powered,+secure,+and+scalable+apps.;Always+learning,+always+creating.&center=true&width=500&height=40&color=F97316&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Final-year Software Engineering student at **INES Ruhengeri**, graduating in **September 2025**
+- 🛠 Currently building **VendorFlow** – a payment and fraud detection platform for Rwandan sellers
+- 🤖 Exploring **AI agents** and **multi-agent systems** for smarter apps
+- ⚙️ Applying for a **DevOps internship at Irembo Ltd**, where I hope to sharpen my infrastructure skills
+- 🌱 Constantly learning **Next.js**, **FastAPI**, **LangChain**, and **Cloud DevOps tools**
+
+---
+
+### 🧠 Projects I’m Proud Of
+
+- 🔴 [**VendorFlow**](https://github.com/Aimecol/vendorflow) – Payment & Fraud Management Dashboard with real-time analytics
+- 💉 [**BloodLink**](https://github.com/Aimecol/bloodlink) – A blood donation platform with user feedback, geolocation, and notifications
+- 🛒 [**E-commerce App**](https://github.com/Aimecol/ecommerce) – Secure, animated, and responsive e-shop with multi-gateway payments
+- 🧾 [**Business Manager**](https://github.com/Aimecol/business-manager) – Retail inventory and POS system used by SMEs
+- 🎓 [**E-learning System**](https://github.com/Aimecol/elearning-system) – Virtual education with quizzes, tracking, and certificates
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,html,css,tailwind,django,mongodb,postgres,docker,git,github,vercel,figma,linux,py" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AimeClaudienMazimpaka&show_icons=true&theme=radical" alt="Aime's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AimeClaudienMazimpaka&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimeClaudienMazimpaka&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Portfolio & Contact
+
+- 🔗 Portfolio: [aimeclaudien.dev](https://your-portfolio.com) *(Coming Soon)*
+- 💼 LinkedIn: [linkedin.com/in/aimeclaudien](https://linkedin.com/in/yourprofile)
+- 📧 Email: [aimeclaudien.dev@gmail.com](mailto:aimeclaudien.dev@gmail.com)
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:aimeclaudien.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+> “Code is poetry, but great software is purpose-driven.”  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AimeClaudienMazimpaka&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
