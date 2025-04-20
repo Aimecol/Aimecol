@@ -47,9 +47,9 @@
 
 ### 🌐 Portfolio & Contact
 
-- 🔗 Portfolio: [aimeclaudien.dev](https://your-portfolio.com) *(Coming Soon)*
-- 💼 LinkedIn: [linkedin.com/in/aimeclaudien](https://linkedin.com/in/yourprofile)
-- 📧 Email: [aimeclaudien.dev@gmail.com](mailto:aimeclaudien.dev@gmail.com)
+- 🔗 Portfolio: [[aimeclaudien.dev](https://your-portfolio.com)](https://aimecol.github.io/portfolio/)
+- 💼 LinkedIn: ([https://linkedin.com/in/aime-claudien-mazimpaka](https://www.linkedin.com/in/aime-claudien-mazimpaka-61801b356))
+- 📧 Email: [aimecol314@gmail.com](mailto:aimecol314@gmail.com)
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
