@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Aimecol/assets/blob/main/profile.jpg?raw=true" alt="Aime Claudien Mazimpaka" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://github.com/Aimecol/assets/blob/main/Aime.png?raw=true" alt="Aime Claudien Mazimpaka" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aime Claudien Mazimpaka</h1>
