@@ -38,9 +38,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AimeClaudienMazimpaka&show_icons=true&theme=radical" alt="Aime's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AimeClaudienMazimpaka&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AimeClaudienMazimpaka&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aimecol&show_icons=true&theme=radical" alt="Aime's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aimecol&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimecol&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
