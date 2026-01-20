@@ -19,7 +19,6 @@ I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 
 - 🚀 **Building**: Production systems including **CPFI Rwanda**, **Peda Digital Services**, and **Digihealth**
 - 🧬 **Exploring**: AI agents, multi-agent workflows, and cloud engineering
 - ☁️ **Seeking**: DevOps and Cloud Engineering opportunities to expand my skillset
-- 🎤 **Music**: Professional pop musician with original tracks on [YouTube](https://www.youtube.com/@Aimecol)
 - 🌍 **Mission**: Transforming Africa through innovative software and meaningful sound
 
 ---
@@ -39,22 +38,10 @@ I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 
 
 ---
 
-### 🎶 My Music Journey
-
-Outside of tech, I'm a dedicated **pop musician and singer**, channeling personal experiences into lyrics and melodies. I write, record, and produce tracks that blend emotion with modern soundscapes.
-
-🔗 **Listen to My Work**:
-- 🎵 [**Ruraryana** (Official Audio)](https://youtu.be/6sSGdpxk1xg)
-- 🎵 [**No** (Official Audio)](https://youtu.be/IrtcFgBha94)
-- 📺 [**Full Music Channel** – YouTube/@Aimecol](https://www.youtube.com/@Aimecol)
-
-> _"Music expresses what words can't... and tech builds what the world needs."_
-
----
-
 ### 💻 Featured Projects & Live Products
 
 #### 🌐 **Production Websites**
+- 🎨 [**Personal Portfolio**](https://aimecol.com) – Modern portfolio showcasing full-stack and mobile projects
 - 🏢 [**Ikigugu Group**](https://ikigugugroup.rw) – Corporate website developed during professional internship
 - 🏞️ [**Virunga Ecotours**](https://virungaecotours.com/) – Eco-tourism platform promoting Rwanda's natural beauty
 - 🏡 [**Virunga Homestay**](https://virungahomestay.com/) – Professional accommodation booking website
