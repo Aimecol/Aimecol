@@ -13,12 +13,29 @@
 
 ### 🧠 About Me
 
-- 💼 Final-year Software Engineering student at **INES Ruhengeri**, graduating **September 2025**
-- 🚀 Building **VendorFlow** – real-time payments & fraud detection platform
-- 🧬 Exploring **AI agents** & **multi-agent workflows**
-- ☁️ Passionate about DevOps and Cloud Engineering – seeking internship opportunities
-- 🎤 Professional **musician** with original tracks on [YouTube](https://www.youtube.com/@Aimecol)
-- 🌍 Dreaming of tech that transforms Africa – in both **software** and **sound**
+I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 2025, with hands-on experience building production-ready web and mobile applications. I thrive at the intersection of technology and creativity, crafting solutions that solve real-world problems while pursuing my passion for music.
+
+- 💼 **Current Role**: Software Engineering Intern at **Ikigugu Group Ltd** (Feb 2025 - Jul 2025)
+- 🚀 **Building**: Production systems including **CPFI Rwanda**, **Peda Digital Services**, and **Digihealth**
+- 🧬 **Exploring**: AI agents, multi-agent workflows, and cloud engineering
+- ☁️ **Seeking**: DevOps and Cloud Engineering opportunities to expand my skillset
+- 🎤 **Music**: Professional pop musician with original tracks on [YouTube](https://www.youtube.com/@Aimecol)
+- 🌍 **Mission**: Transforming Africa through innovative software and meaningful sound
+
+---
+
+### 💼 Professional Experience
+
+**Software Engineering Intern** @ Ikigugu Group Ltd  
+*February 2025 - July 2025 | Musanze, Rwanda*
+- Contributing to real-world production systems used by clients and stakeholders
+- Building and maintaining web interfaces and backend services with React and Node.js
+- Collaborating with senior engineers on system architecture and deployment
+
+**Freelance Software Developer**  
+*2024 - Present*
+- Delivered custom solutions including e-learning platforms, e-commerce systems, estate management, and booking systems
+- Gathered requirements directly from clients and translated them into functional, maintainable software
 
 ---
 
@@ -31,24 +48,63 @@ Outside of tech, I'm a dedicated **pop musician and singer**, channeling persona
 - 🎵 [**No** (Official Audio)](https://youtu.be/IrtcFgBha94)
 - 📺 [**Full Music Channel** – YouTube/@Aimecol](https://www.youtube.com/@Aimecol)
 
-> _“Music expresses what words can’t... and tech builds what the world needs.”_
+> _"Music expresses what words can't... and tech builds what the world needs."_
 
 ---
 
-### 💻 Projects I’m Proud Of
+### 💻 Featured Projects & Live Products
 
-- 🔴 [**VendorFlow**](https://github.com/Aimecol/vendorflow) – A fraud-aware payment dashboard for Rwandan sellers
-- 💉 [**BloodLink**](https://github.com/Aimecol/bloodlink) – Blood donation platform with smart feedback & alerts
+#### 🌐 **Production Websites**
+- 🏢 [**Ikigugu Group**](https://ikigugugroup.rw) – Corporate website developed during professional internship
+- 🏞️ [**Virunga Ecotours**](https://virungaecotours.com/) – Eco-tourism platform promoting Rwanda's natural beauty
+- 🏡 [**Virunga Homestay**](https://virungahomestay.com/) – Professional accommodation booking website
+- 🚗 [**Goico Rental Management**](https://goicoltd.com) – Comprehensive rental management system
+- 🏥 [**Digihealth**](https://digihealth.rw) – Hospital and pharmacy patient recording system
+
+#### 💼 **Current Projects**
+- 🛍️ [**Peda Digital Services**](https://peda.aimecol.com) – Complete ecommerce platform with admin dashboard
+- 📊 [**CPFI Rwanda System**](https://cpfi.aimecol.com) – Data-driven workflow management system
+- 🖼️ [**Image Collection Platform**](https://images.aimecol.com) – Secure image management and delivery system
+
+#### 📱 **Mobile Applications**
+- 🍽️ **Ikiraha** – Smart food ordering mobile application
+- 🚕 **Agaciro Drivers App** – Driver booking application ([View](https://play.google.com/store/apps/details?id=com.agaciro.drivers))
+- 💰 **IEMS Mobile** – Personal financial management application ([View](https://play.google.com/store/apps/details?id=com.iems.mobile))
+
+#### 🧪 **Open Source Projects**
+- 🔴 [**VendorFlow**](https://github.com/Aimecol/vendorflow) – Fraud-aware payment dashboard for Rwandan sellers
+- 💉 [**BloodLink**](https://github.com/Aimecol/bloodlink) – Blood donation platform with smart alerts
 - 🛒 [**E-commerce App**](https://github.com/Aimecol/ecommerce) – Secure online shopping with multi-payment support
-- 📚 [**E-learning System**](https://github.com/Aimecol/elearning-system) – Remote education with quiz tracking & badges
-- 🧾 [**Business Manager**](https://github.com/Aimecol/business-manager) – Inventory & POS app for growing SMEs
+- 📚 [**E-learning System**](https://github.com/Aimecol/elearning-system) – Remote education with quiz tracking
+- 🧾 [**Business Manager**](https://github.com/Aimecol/business-manager) – Inventory & POS app for SMEs
 
 ---
 
 ### 🛠 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,figma,express,nodejs,python,django,mongodb,postgres,docker,git,github,vercel,linux" />
+**Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
+</p>
+
+**Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php" />
+</p>
+
+**Mobile Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
+
+**Databases & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,github,vercel,linux" />
+</p>
+
+**Design & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode" />
 </p>
 
 ---
@@ -57,32 +113,59 @@ Outside of tech, I'm a dedicated **pop musician and singer**, channeling persona
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aimecol&show_icons=true&theme=radical" alt="Aime's GitHub stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aimecol&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimecol&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔗 Portfolio & Contact
-
-- 🌐 Portfolio: [aimeclaudien.dev](https://aimecol.github.io/portfolio/)
-- 💼 LinkedIn: [aime-claudien-mazimpaka](https://www.linkedin.com/in/aime-claudien-mazimpaka-61801b356)
-- 📧 Email: [aimecol314@gmail.com](mailto:aimecol314@gmail.com)
-- 🎧 Music Channel: [@Aimecol](https://www.youtube.com/@Aimecol)
+### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aime-claudien-mazimpaka-61801b356" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:aimecol314@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Aimecol"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://aimecol.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/aime-claudien-mazimpaka-61801b356" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aimecol314@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Aimecol" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@Aimecol" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 ---
 
+### 💡 What I'm Currently Learning
+
+- 🤖 AI Agent Development & Multi-Agent Systems
+- ☁️ Cloud Architecture & DevOps Practices
+- 🔐 Advanced Security & Authentication Patterns
+- 📊 Data Engineering & Analytics
+
+---
+
 ### ⚡ Fun Fact
-> “Whether it’s through code or chorus – I always build with heart.”
+
+> "Whether it's through code or chorus – I always build with heart."
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aimecol&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <i>Open to opportunities in Software Engineering, Cloud Computing, and DevOps</i>
 </p>
