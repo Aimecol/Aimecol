@@ -15,11 +15,11 @@
 
 I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 2025, with hands-on experience building production-ready web and mobile applications. I thrive at the intersection of technology and creativity, crafting solutions that solve real-world problems while pursuing my passion for music.
 
-- 💼 **Current Role**: Software Engineering Intern at **Ikigugu Group Ltd** (Feb 2025 - Jul 2025)
+- 💼 **Current Role**: Software Engineer at PACE Ltd
 - 🚀 **Building**: Production systems including **CPFI Rwanda**, **Peda Digital Services**, and **Digihealth**
 - 🧬 **Exploring**: AI agents, multi-agent workflows, and cloud engineering
 - ☁️ **Seeking**: DevOps and Cloud Engineering opportunities to expand my skillset
-- 🌍 **Mission**: Transforming Africa through innovative software and meaningful sound
+- 🌍 **Mission**: Transforming thw world through innovative software and meaningful sound
 
 ---
 
