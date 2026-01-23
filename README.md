@@ -60,7 +60,7 @@ I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 
 
 **Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,php" />
 </p>
 
 **Mobile Development**
@@ -70,7 +70,7 @@ I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 
 
 **Databases & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,github,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vercel" />
 </p>
 
 **Design & Tools**
