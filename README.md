@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aime Claudien Mazimpaka</h1>
-<h3 align="center">🎓 Software Engineer | 🎶 Musician | 💻 Full-Stack Developer | ☁️ DevOps Explorer | 🧠 AI Enthusiast</h3>
+<h3 align="center">🎓 Software Engineer | 💻 Full-Stack Developer | ☁️ DevOps Explorer | 🧠 AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+impactful+code...;Building+AI-powered,+secure,+and+scalable+apps.;Always+learning,+always+creating.&center=true&width=700&height=40&color=F97316&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 2025, with hands-on experience building production-ready web and mobile applications. I thrive at the intersection of technology and creativity, crafting solutions that solve real-world problems while pursuing my passion for music.
+I'm a passionate **Software Engineer**, with hands-on experience building production-ready web and mobile applications. I thrive at the intersection of technology and creativity, crafting solutions that solve real-world problems.
 
 - 💼 **Current Role**: Software Engineer at PACE Ltd
 - 🚀 **Building**: Production systems including **CPFI Rwanda**, and **Digihealth**
@@ -60,7 +60,7 @@ I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 
 
 **Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,php" />
 </p>
 
 **Mobile Development**
