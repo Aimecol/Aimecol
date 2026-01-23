@@ -16,25 +16,10 @@
 I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 2025, with hands-on experience building production-ready web and mobile applications. I thrive at the intersection of technology and creativity, crafting solutions that solve real-world problems while pursuing my passion for music.
 
 - 💼 **Current Role**: Software Engineer at PACE Ltd
-- 🚀 **Building**: Production systems including **CPFI Rwanda**, **Peda Digital Services**, and **Digihealth**
+- 🚀 **Building**: Production systems including **CPFI Rwanda**, and **Digihealth**
 - 🧬 **Exploring**: AI agents, multi-agent workflows, and cloud engineering
 - ☁️ **Seeking**: DevOps and Cloud Engineering opportunities to expand my skillset
 - 🌍 **Mission**: Transforming thw world through innovative software and meaningful sound
-
----
-
-### 💼 Professional Experience
-
-**Software Engineering Intern** @ Ikigugu Group Ltd  
-*February 2025 - July 2025 | Musanze, Rwanda*
-- Contributing to real-world production systems used by clients and stakeholders
-- Building and maintaining web interfaces and backend services with React and Node.js
-- Collaborating with senior engineers on system architecture and deployment
-
-**Freelance Software Developer**  
-*2024 - Present*
-- Delivered custom solutions including e-learning platforms, e-commerce systems, estate management, and booking systems
-- Gathered requirements directly from clients and translated them into functional, maintainable software
 
 ---
 
@@ -59,11 +44,10 @@ I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 
 - 💰 **IEMS Mobile** – Personal financial management application ([View](https://play.google.com/store/apps/details?id=com.iems.mobile))
 
 #### 🧪 **Open Source Projects**
-- 🔴 [**VendorFlow**](https://github.com/Aimecol/vendorflow) – Fraud-aware payment dashboard for Rwandan sellers
-- 💉 [**BloodLink**](https://github.com/Aimecol/bloodlink) – Blood donation platform with smart alerts
-- 🛒 [**E-commerce App**](https://github.com/Aimecol/ecommerce) – Secure online shopping with multi-payment support
-- 📚 [**E-learning System**](https://github.com/Aimecol/elearning-system) – Remote education with quiz tracking
-- 🧾 [**Business Manager**](https://github.com/Aimecol/business-manager) – Inventory & POS app for SMEs
+- 🔴 [**VendorFlow**](https://github.com/Aimecol/vendorflow_fyd.git) – Fraud-aware payment dashboard for Rwandan sellers
+- 💉 [**BloodLink**](https://github.com/Aimecol/BDMS.git) – Blood donation platform with smart alerts
+- 📚 [**E-learning System**](https://github.com/Aimecol/E-learnPro.git) – Remote education with quiz tracking
+- 🧾 [**Blog**](https://github.com/Aimecol/blog.git) – Share posts, comment and view them
 
 ---
 
@@ -127,25 +111,7 @@ I'm a passionate **Software Engineer** who graduated from **INES Ruhengeri** in 
   <a href="https://github.com/Aimecol" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.youtube.com/@Aimecol" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
 </p>
-
----
-
-### 💡 What I'm Currently Learning
-
-- 🤖 AI Agent Development & Multi-Agent Systems
-- ☁️ Cloud Architecture & DevOps Practices
-- 🔐 Advanced Security & Authentication Patterns
-- 📊 Data Engineering & Analytics
-
----
-
-### ⚡ Fun Fact
-
-> "Whether it's through code or chorus – I always build with heart."
 
 ---
 
