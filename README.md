@@ -80,31 +80,6 @@ I'm a passionate **Software Engineer**, with hands-on experience building produc
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Aimecol&theme=radical&show_icons=true&theme=radical&cache_seconds=1800"
-    alt="Aime's GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=Aimecol&theme=radical&theme=radical&cache_seconds=1800"
-    alt="GitHub Streak"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Aimecol&theme=radical&layout=compact&theme=radical&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
-
-
----
-
 ### 🔗 Connect With Me
 
 <p align="center">
