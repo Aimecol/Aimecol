@@ -84,12 +84,12 @@ I'm a passionate **Software Engineer**, with hands-on experience building produc
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Aimecol&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Aimecol&show_icons=true&theme=radical&cache_seconds=1800"
     alt="Aime's GitHub stats"
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Aimecol&theme=radical"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Aimecol&theme=radical&cache_seconds=1800"
     alt="GitHub Streak"
     height="165"
   />
@@ -97,7 +97,7 @@ I'm a passionate **Software Engineer**, with hands-on experience building produc
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimecol&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimecol&layout=compact&theme=radical&cache_seconds=1800"
     alt="Top Languages"
   />
 </p>
