@@ -83,21 +83,25 @@ I'm a passionate **Software Engineer**, with hands-on experience building produc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aimecol&show_icons=true&theme=radical" alt="Aime's GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aimecol&show_icons=true&theme=radical"
+    alt="Aime's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Aimecol&theme=radical"
+    alt="GitHub Streak"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aimecol&theme=radical" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimecol&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimecol&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aimecol&show_icons=true&theme=radical" alt="Aime's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aimecol&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimecol&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
